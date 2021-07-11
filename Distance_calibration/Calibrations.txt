@@ -1,0 +1,13 @@
+100 DIV = 1 mm = whole rule slide
+
+1 DIV = 0.01mm
+1 div = 10 um
+
+40x:
+0.18277 um/px
+
+20x:
+0.36873 um/px
+
+10x:
+0.73739 um/px
