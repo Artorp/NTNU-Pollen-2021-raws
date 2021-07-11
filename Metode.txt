@@ -1,0 +1,19 @@
+Taking photos:
+40x optic magnification
+10x eyepiece magnification (check if camera has other magnification)
+= 400x magnification
+Exposure: 0.3 lukkeråpning lys. Ca 40 ms exposure.
+Auto white balance.
+
+Annotations:
+Annotate everything, even pollen grains out of focus. When multiple images of the same position are taken with different focal length, they belong to the same sample. After annotating anything, it should be possible to match the grain from different images, and then just find the sharpest image. Then use the sharpest image as the bounding box for training. When evaluating the images, if a match against an out-of-focus image is done, that match is just ignored and won't count towards True Positive, False Positive or False Negative.
+
+Grains at the edges of the picture are annotated as such, prefixed with edge_. E.g. edge_corylus or edge_alnus. Grains are only annotated as edge if more than 50 % of the grain is at the edge, at least 25 % of the grain is visible, and the grain is visible at all focal lengths.
+
+OR
+
+Just annotate everything. Can detect grains at the edge after annotating.
+
+Just check if a bounding box is exactly 0 or 1 to check if it's at an edge, and then use the ratio between smallest to the larger edge to check how much of the grain is outside the view. E.g. grain is at edge, largest edge is 100 px and smallest is 20 px. Can assume 80 px are outside the view. (if the bounding box extends to the full width). Can also calculate average radius to estimate how far the grain probably extends outside the view. E.g. average radius is 50 px, grain is at the edge. Largest edge is 50 px, smallest is 10 px. Can assume 90 px is outside the view.
+
+PS: Can use the offset when performing NMS: transform all (both predicted and ground truth) bounding boxes to the same coordinate space (probably use the first image as the anchor), then perform NMS, then evaluate based on TP and TN on the anchor coordinate space.

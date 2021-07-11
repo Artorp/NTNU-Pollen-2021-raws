@@ -1,0 +1,2230 @@
+{
+  "horizontal_ids": [
+    "Horiz1_75d",
+    "Horiz2_77d",
+    "Horiz3_79d",
+    "Horiz4_73d",
+    "Horiz5_71d",
+    "Horiz6_70d",
+    "Horiz6_81d",
+    "Horiz10_71d",
+    "Horiz1_73d",
+    "Horiz2_75d",
+    "Horiz3_80d",
+    "Horiz4_79d",
+    "Horiz5_82d",
+    "Horiz6_83d",
+    "Horiz7_84d",
+    "Horiz8_85d",
+    "Horiz9_102d",
+    "Horiz1_74d",
+    "Horiz2_76d",
+    "Horiz3_77d",
+    "Horiz4_78d",
+    "Horiz5_79d",
+    "Horiz6_80d",
+    "Horiz7_72d",
+    "Horiz8_70d"
+  ],
+  "mapping": {
+    "Snap-656.tif": {
+      "h_idx": 0
+    },
+    "Snap-657.tif": {
+      "h_idx": 0
+    },
+    "Snap-658.tif": {
+      "h_idx": 0
+    },
+    "Snap-659.tif": {
+      "h_idx": 0
+    },
+    "Snap-660.tif": {
+      "h_idx": 0
+    },
+    "Snap-661.tif": {
+      "h_idx": 0
+    },
+    "Snap-662.tif": {
+      "h_idx": 0
+    },
+    "Snap-663.tif": {
+      "h_idx": 0
+    },
+    "Snap-664.tif": {
+      "h_idx": 0
+    },
+    "Snap-665.tif": {
+      "h_idx": 0
+    },
+    "Snap-666.tif": {
+      "h_idx": 0
+    },
+    "Snap-667.tif": {
+      "h_idx": 0
+    },
+    "Snap-668.tif": {
+      "h_idx": 0
+    },
+    "Snap-669.tif": {
+      "h_idx": 0
+    },
+    "Snap-670.tif": {
+      "h_idx": 0
+    },
+    "Snap-671.tif": {
+      "h_idx": 0
+    },
+    "Snap-672.tif": {
+      "h_idx": 1
+    },
+    "Snap-673.tif": {
+      "h_idx": 1
+    },
+    "Snap-674.tif": {
+      "h_idx": 1
+    },
+    "Snap-675.tif": {
+      "h_idx": 1
+    },
+    "Snap-676.tif": {
+      "h_idx": 1
+    },
+    "Snap-677.tif": {
+      "h_idx": 1
+    },
+    "Snap-678.tif": {
+      "h_idx": 1
+    },
+    "Snap-679.tif": {
+      "h_idx": 1
+    },
+    "Snap-680.tif": {
+      "h_idx": 1
+    },
+    "Snap-681.tif": {
+      "h_idx": 1
+    },
+    "Snap-682.tif": {
+      "h_idx": 1
+    },
+    "Snap-683.tif": {
+      "h_idx": 1
+    },
+    "Snap-684.tif": {
+      "h_idx": 2
+    },
+    "Snap-685.tif": {
+      "h_idx": 2
+    },
+    "Snap-686.tif": {
+      "h_idx": 2
+    },
+    "Snap-687.tif": {
+      "h_idx": 2
+    },
+    "Snap-688.tif": {
+      "h_idx": 2
+    },
+    "Snap-689.tif": {
+      "h_idx": 2
+    },
+    "Snap-690.tif": {
+      "h_idx": 3
+    },
+    "Snap-691.tif": {
+      "h_idx": 3
+    },
+    "Snap-692.tif": {
+      "h_idx": 3
+    },
+    "Snap-693.tif": {
+      "h_idx": 3
+    },
+    "Snap-694.tif": {
+      "h_idx": 3
+    },
+    "Snap-695.tif": {
+      "h_idx": 3
+    },
+    "Snap-696.tif": {
+      "h_idx": 3
+    },
+    "Snap-697.tif": {
+      "h_idx": 3
+    },
+    "Snap-698.tif": {
+      "h_idx": 3
+    },
+    "Snap-699.tif": {
+      "h_idx": 3
+    },
+    "Snap-700.tif": {
+      "h_idx": 3
+    },
+    "Snap-701.tif": {
+      "h_idx": 3
+    },
+    "Snap-702.tif": {
+      "h_idx": 3
+    },
+    "Snap-703.tif": {
+      "h_idx": 3
+    },
+    "Snap-704.tif": {
+      "h_idx": 3
+    },
+    "Snap-705.tif": {
+      "h_idx": 3
+    },
+    "Snap-706.tif": {
+      "h_idx": 3
+    },
+    "Snap-707.tif": {
+      "h_idx": 3
+    },
+    "Snap-708.tif": {
+      "h_idx": 3
+    },
+    "Snap-709.tif": {
+      "h_idx": 3
+    },
+    "Snap-710.tif": {
+      "h_idx": 3
+    },
+    "Snap-712.tif": {
+      "h_idx": 4
+    },
+    "Snap-713.tif": {
+      "h_idx": 4
+    },
+    "Snap-714.tif": {
+      "h_idx": 4
+    },
+    "Snap-715.tif": {
+      "h_idx": 4
+    },
+    "Snap-716.tif": {
+      "h_idx": 4
+    },
+    "Snap-717.tif": {
+      "h_idx": 4
+    },
+    "Snap-718.tif": {
+      "h_idx": 4
+    },
+    "Snap-719.tif": {
+      "h_idx": 4
+    },
+    "Snap-720.tif": {
+      "h_idx": 4
+    },
+    "Snap-721.tif": {
+      "h_idx": 4
+    },
+    "Snap-722.tif": {
+      "h_idx": 4
+    },
+    "Snap-723.tif": {
+      "h_idx": 4
+    },
+    "Snap-724.tif": {
+      "h_idx": 4
+    },
+    "Snap-725.tif": {
+      "h_idx": 4
+    },
+    "Snap-726.tif": {
+      "h_idx": 4
+    },
+    "Snap-727.tif": {
+      "h_idx": 4
+    },
+    "Snap-728.tif": {
+      "h_idx": 4
+    },
+    "Snap-729.tif": {
+      "h_idx": 4
+    },
+    "Snap-730.tif": {
+      "h_idx": 4
+    },
+    "Snap-731.tif": {
+      "h_idx": 4
+    },
+    "Snap-732.tif": {
+      "h_idx": 4
+    },
+    "Snap-733.tif": {
+      "h_idx": 4
+    },
+    "Snap-734.tif": {
+      "h_idx": 4
+    },
+    "Snap-735.tif": {
+      "h_idx": 4
+    },
+    "Snap-736.tif": {
+      "h_idx": 4
+    },
+    "Snap-737.tif": {
+      "h_idx": 4
+    },
+    "Snap-738.tif": {
+      "h_idx": 4
+    },
+    "Snap-739.tif": {
+      "h_idx": 5
+    },
+    "Snap-740.tif": {
+      "h_idx": 5
+    },
+    "Snap-741.tif": {
+      "h_idx": 6
+    },
+    "Snap-742.tif": {
+      "h_idx": 6
+    },
+    "Snap-743.tif": {
+      "h_idx": 6
+    },
+    "Snap-744.tif": {
+      "h_idx": 6
+    },
+    "Snap-213.tif": {
+      "h_idx": 7
+    },
+    "Snap-214.tif": {
+      "h_idx": 7
+    },
+    "Snap-215.tif": {
+      "h_idx": 7
+    },
+    "Snap-216.tif": {
+      "h_idx": 7
+    },
+    "Snap-217.tif": {
+      "h_idx": 7
+    },
+    "Snap-218.tif": {
+      "h_idx": 7
+    },
+    "Snap-219.tif": {
+      "h_idx": 7
+    },
+    "Snap-220.tif": {
+      "h_idx": 7
+    },
+    "Snap-221.tif": {
+      "h_idx": 7
+    },
+    "Snap-222.tif": {
+      "h_idx": 7
+    },
+    "Snap-223.tif": {
+      "h_idx": 7
+    },
+    "Snap-224.tif": {
+      "h_idx": 7
+    },
+    "Snap-225.tif": {
+      "h_idx": 7
+    },
+    "Snap-226.tif": {
+      "h_idx": 7
+    },
+    "Snap-227.tif": {
+      "h_idx": 7
+    },
+    "Snap-228.tif": {
+      "h_idx": 7
+    },
+    "Snap-229.tif": {
+      "h_idx": 7
+    },
+    "Snap-230.tif": {
+      "h_idx": 7
+    },
+    "Snap-231.tif": {
+      "h_idx": 7
+    },
+    "Snap-232.tif": {
+      "h_idx": 7
+    },
+    "Snap-233.tif": {
+      "h_idx": 7
+    },
+    "Snap-234.tif": {
+      "h_idx": 7
+    },
+    "Snap-11.tif": {
+      "h_idx": 8
+    },
+    "Snap-12.tif": {
+      "h_idx": 8
+    },
+    "Snap-13.tif": {
+      "h_idx": 8
+    },
+    "Snap-14.tif": {
+      "h_idx": 8
+    },
+    "Snap-15.tif": {
+      "h_idx": 8
+    },
+    "Snap-16.tif": {
+      "h_idx": 8
+    },
+    "Snap-17.tif": {
+      "h_idx": 8
+    },
+    "Snap-18.tif": {
+      "h_idx": 8
+    },
+    "Snap-19.tif": {
+      "h_idx": 8
+    },
+    "Snap-20.tif": {
+      "h_idx": 8
+    },
+    "Snap-21.tif": {
+      "h_idx": 8
+    },
+    "Snap-22.tif": {
+      "h_idx": 8
+    },
+    "Snap-23.tif": {
+      "h_idx": 8
+    },
+    "Snap-24.tif": {
+      "h_idx": 8
+    },
+    "Snap-25.tif": {
+      "h_idx": 8
+    },
+    "Snap-26.tif": {
+      "h_idx": 8
+    },
+    "Snap-27.tif": {
+      "h_idx": 8
+    },
+    "Snap-28.tif": {
+      "h_idx": 8
+    },
+    "Snap-29.tif": {
+      "h_idx": 8
+    },
+    "Snap-30.tif": {
+      "h_idx": 8
+    },
+    "Snap-31.tif": {
+      "h_idx": 8
+    },
+    "Snap-32.tif": {
+      "h_idx": 8
+    },
+    "Snap-33.tif": {
+      "h_idx": 8
+    },
+    "Snap-34.tif": {
+      "h_idx": 8
+    },
+    "Snap-35.tif": {
+      "h_idx": 8
+    },
+    "Snap-36.tif": {
+      "h_idx": 8
+    },
+    "Snap-37.tif": {
+      "h_idx": 8
+    },
+    "Snap-38.tif": {
+      "h_idx": 8
+    },
+    "Snap-39.tif": {
+      "h_idx": 8
+    },
+    "Snap-40.tif": {
+      "h_idx": 8
+    },
+    "Snap-41.tif": {
+      "h_idx": 8
+    },
+    "Snap-42.tif": {
+      "h_idx": 8
+    },
+    "Snap-43.tif": {
+      "h_idx": 8
+    },
+    "Snap-44.tif": {
+      "h_idx": 8
+    },
+    "Snap-45.tif": {
+      "h_idx": 8
+    },
+    "Snap-46.tif": {
+      "h_idx": 8
+    },
+    "Snap-47.tif": {
+      "h_idx": 8
+    },
+    "Snap-48.tif": {
+      "h_idx": 8
+    },
+    "Snap-49.tif": {
+      "h_idx": 8
+    },
+    "Snap-50.tif": {
+      "h_idx": 8
+    },
+    "Snap-51.tif": {
+      "h_idx": 8
+    },
+    "Snap-52.tif": {
+      "h_idx": 8
+    },
+    "Snap-53.tif": {
+      "h_idx": 8
+    },
+    "Snap-54.tif": {
+      "h_idx": 8
+    },
+    "Snap-55.tif": {
+      "h_idx": 8
+    },
+    "Snap-56.tif": {
+      "h_idx": 8
+    },
+    "Snap-57.tif": {
+      "h_idx": 8
+    },
+    "Snap-58.tif": {
+      "h_idx": 8
+    },
+    "Snap-59.tif": {
+      "h_idx": 8
+    },
+    "Snap-60.tif": {
+      "h_idx": 8
+    },
+    "Snap-61.tif": {
+      "h_idx": 8
+    },
+    "Snap-62.tif": {
+      "h_idx": 8
+    },
+    "Snap-63.tif": {
+      "h_idx": 8
+    },
+    "Snap-64.tif": {
+      "h_idx": 8
+    },
+    "Snap-65.tif": {
+      "h_idx": 8
+    },
+    "Snap-66.tif": {
+      "h_idx": 8
+    },
+    "Snap-67.tif": {
+      "h_idx": 8
+    },
+    "Snap-68.tif": {
+      "h_idx": 8
+    },
+    "Snap-69.tif": {
+      "h_idx": 8
+    },
+    "Snap-70.tif": {
+      "h_idx": 8
+    },
+    "Snap-71.tif": {
+      "h_idx": 8
+    },
+    "Snap-72.tif": {
+      "h_idx": 8
+    },
+    "Snap-73.tif": {
+      "h_idx": 8
+    },
+    "Snap-74.tif": {
+      "h_idx": 8
+    },
+    "Snap-75.tif": {
+      "h_idx": 8
+    },
+    "Snap-76.tif": {
+      "h_idx": 8
+    },
+    "Snap-77.tif": {
+      "h_idx": 8
+    },
+    "Snap-78.tif": {
+      "h_idx": 8
+    },
+    "Snap-79.tif": {
+      "h_idx": 8
+    },
+    "Snap-80.tif": {
+      "h_idx": 8
+    },
+    "Snap-81.tif": {
+      "h_idx": 8
+    },
+    "Snap-82.tif": {
+      "h_idx": 8
+    },
+    "Snap-83.tif": {
+      "h_idx": 8
+    },
+    "Snap-84.tif": {
+      "h_idx": 8
+    },
+    "Snap-100.tif": {
+      "h_idx": 9
+    },
+    "Snap-101.tif": {
+      "h_idx": 9
+    },
+    "Snap-102.tif": {
+      "h_idx": 9
+    },
+    "Snap-103.tif": {
+      "h_idx": 9
+    },
+    "Snap-104.tif": {
+      "h_idx": 9
+    },
+    "Snap-105.tif": {
+      "h_idx": 9
+    },
+    "Snap-106.tif": {
+      "h_idx": 9
+    },
+    "Snap-107.tif": {
+      "h_idx": 9
+    },
+    "Snap-108.tif": {
+      "h_idx": 9
+    },
+    "Snap-109.tif": {
+      "h_idx": 9
+    },
+    "Snap-110.tif": {
+      "h_idx": 9
+    },
+    "Snap-111.tif": {
+      "h_idx": 9
+    },
+    "Snap-112.tif": {
+      "h_idx": 9
+    },
+    "Snap-113.tif": {
+      "h_idx": 9
+    },
+    "Snap-114.tif": {
+      "h_idx": 9
+    },
+    "Snap-115.tif": {
+      "h_idx": 9
+    },
+    "Snap-116.tif": {
+      "h_idx": 9
+    },
+    "Snap-117.tif": {
+      "h_idx": 9
+    },
+    "Snap-85.tif": {
+      "h_idx": 9
+    },
+    "Snap-86.tif": {
+      "h_idx": 9
+    },
+    "Snap-87.tif": {
+      "h_idx": 9
+    },
+    "Snap-88.tif": {
+      "h_idx": 9
+    },
+    "Snap-89.tif": {
+      "h_idx": 9
+    },
+    "Snap-90.tif": {
+      "h_idx": 9
+    },
+    "Snap-91.tif": {
+      "h_idx": 9
+    },
+    "Snap-92.tif": {
+      "h_idx": 9
+    },
+    "Snap-93.tif": {
+      "h_idx": 9
+    },
+    "Snap-94.tif": {
+      "h_idx": 9
+    },
+    "Snap-95.tif": {
+      "h_idx": 9
+    },
+    "Snap-96.tif": {
+      "h_idx": 9
+    },
+    "Snap-97.tif": {
+      "h_idx": 9
+    },
+    "Snap-98.tif": {
+      "h_idx": 9
+    },
+    "Snap-99.tif": {
+      "h_idx": 9
+    },
+    "Snap-118.tif": {
+      "h_idx": 10
+    },
+    "Snap-119.tif": {
+      "h_idx": 10
+    },
+    "Snap-120.tif": {
+      "h_idx": 10
+    },
+    "Snap-121.tif": {
+      "h_idx": 10
+    },
+    "Snap-122.tif": {
+      "h_idx": 10
+    },
+    "Snap-123.tif": {
+      "h_idx": 10
+    },
+    "Snap-124.tif": {
+      "h_idx": 10
+    },
+    "Snap-125.tif": {
+      "h_idx": 10
+    },
+    "Snap-126.tif": {
+      "h_idx": 10
+    },
+    "Snap-127.tif": {
+      "h_idx": 10
+    },
+    "Snap-128.tif": {
+      "h_idx": 10
+    },
+    "Snap-129.tif": {
+      "h_idx": 10
+    },
+    "Snap-130.tif": {
+      "h_idx": 10
+    },
+    "Snap-131.tif": {
+      "h_idx": 10
+    },
+    "Snap-132.tif": {
+      "h_idx": 10
+    },
+    "Snap-133.tif": {
+      "h_idx": 11
+    },
+    "Snap-134.tif": {
+      "h_idx": 11
+    },
+    "Snap-135.tif": {
+      "h_idx": 11
+    },
+    "Snap-136.tif": {
+      "h_idx": 11
+    },
+    "Snap-137.tif": {
+      "h_idx": 11
+    },
+    "Snap-138.tif": {
+      "h_idx": 11
+    },
+    "Snap-139.tif": {
+      "h_idx": 11
+    },
+    "Snap-140.tif": {
+      "h_idx": 11
+    },
+    "Snap-141.tif": {
+      "h_idx": 11
+    },
+    "Snap-142.tif": {
+      "h_idx": 11
+    },
+    "Snap-143.tif": {
+      "h_idx": 11
+    },
+    "Snap-144.tif": {
+      "h_idx": 11
+    },
+    "Snap-145.tif": {
+      "h_idx": 11
+    },
+    "Snap-146.tif": {
+      "h_idx": 11
+    },
+    "Snap-147.tif": {
+      "h_idx": 11
+    },
+    "Snap-148.tif": {
+      "h_idx": 11
+    },
+    "Snap-149.tif": {
+      "h_idx": 11
+    },
+    "Snap-150.tif": {
+      "h_idx": 11
+    },
+    "Snap-151.tif": {
+      "h_idx": 11
+    },
+    "Snap-152.tif": {
+      "h_idx": 11
+    },
+    "Snap-153.tif": {
+      "h_idx": 11
+    },
+    "Snap-154.tif": {
+      "h_idx": 11
+    },
+    "Snap-155.tif": {
+      "h_idx": 11
+    },
+    "Snap-156.tif": {
+      "h_idx": 11
+    },
+    "Snap-157.tif": {
+      "h_idx": 11
+    },
+    "Snap-158.tif": {
+      "h_idx": 11
+    },
+    "Snap-159.tif": {
+      "h_idx": 11
+    },
+    "Snap-160.tif": {
+      "h_idx": 11
+    },
+    "Snap-161.tif": {
+      "h_idx": 11
+    },
+    "Snap-162.tif": {
+      "h_idx": 11
+    },
+    "Snap-163.tif": {
+      "h_idx": 11
+    },
+    "Snap-164.tif": {
+      "h_idx": 11
+    },
+    "Snap-165.tif": {
+      "h_idx": 11
+    },
+    "Snap-166.tif": {
+      "h_idx": 11
+    },
+    "Snap-167.tif": {
+      "h_idx": 11
+    },
+    "Snap-168.tif": {
+      "h_idx": 11
+    },
+    "Snap-169.tif": {
+      "h_idx": 11
+    },
+    "Snap-170.tif": {
+      "h_idx": 11
+    },
+    "Snap-171.tif": {
+      "h_idx": 11
+    },
+    "Snap-172.tif": {
+      "h_idx": 11
+    },
+    "Snap-173.tif": {
+      "h_idx": 11
+    },
+    "Snap-174.tif": {
+      "h_idx": 11
+    },
+    "Snap-175.tif": {
+      "h_idx": 11
+    },
+    "Snap-176.tif": {
+      "h_idx": 11
+    },
+    "Snap-177.tif": {
+      "h_idx": 11
+    },
+    "Snap-178.tif": {
+      "h_idx": 11
+    },
+    "Snap-179.tif": {
+      "h_idx": 11
+    },
+    "Snap-180.tif": {
+      "h_idx": 11
+    },
+    "Snap-181.tif": {
+      "h_idx": 11
+    },
+    "Snap-182.tif": {
+      "h_idx": 11
+    },
+    "Snap-183.tif": {
+      "h_idx": 11
+    },
+    "Snap-184.tif": {
+      "h_idx": 11
+    },
+    "Snap-185.tif": {
+      "h_idx": 12
+    },
+    "Snap-186.tif": {
+      "h_idx": 12
+    },
+    "Snap-187.tif": {
+      "h_idx": 12
+    },
+    "Snap-188.tif": {
+      "h_idx": 12
+    },
+    "Snap-189.tif": {
+      "h_idx": 12
+    },
+    "Snap-190.tif": {
+      "h_idx": 12
+    },
+    "Snap-191.tif": {
+      "h_idx": 12
+    },
+    "Snap-192.tif": {
+      "h_idx": 13
+    },
+    "Snap-193.tif": {
+      "h_idx": 13
+    },
+    "Snap-194.tif": {
+      "h_idx": 13
+    },
+    "Snap-195.tif": {
+      "h_idx": 13
+    },
+    "Snap-196.tif": {
+      "h_idx": 13
+    },
+    "Snap-197.tif": {
+      "h_idx": 13
+    },
+    "Snap-198.tif": {
+      "h_idx": 14
+    },
+    "Snap-199.tif": {
+      "h_idx": 14
+    },
+    "Snap-200.tif": {
+      "h_idx": 14
+    },
+    "Snap-201.tif": {
+      "h_idx": 14
+    },
+    "Snap-202.tif": {
+      "h_idx": 15
+    },
+    "Snap-203.tif": {
+      "h_idx": 15
+    },
+    "Snap-204.tif": {
+      "h_idx": 15
+    },
+    "Snap-205.tif": {
+      "h_idx": 16
+    },
+    "Snap-206.tif": {
+      "h_idx": 16
+    },
+    "Snap-207.tif": {
+      "h_idx": 16
+    },
+    "Snap-208.tif": {
+      "h_idx": 16
+    },
+    "Snap-209.tif": {
+      "h_idx": 16
+    },
+    "Snap-210.tif": {
+      "h_idx": 16
+    },
+    "Snap-211.tif": {
+      "h_idx": 16
+    },
+    "Snap-212.tif": {
+      "h_idx": 16
+    },
+    "Snap-235.tif": {
+      "h_idx": 17
+    },
+    "Snap-236.tif": {
+      "h_idx": 17
+    },
+    "Snap-237.tif": {
+      "h_idx": 17
+    },
+    "Snap-238.tif": {
+      "h_idx": 17
+    },
+    "Snap-239.tif": {
+      "h_idx": 17
+    },
+    "Snap-240.tif": {
+      "h_idx": 17
+    },
+    "Snap-241.tif": {
+      "h_idx": 17
+    },
+    "Snap-242.tif": {
+      "h_idx": 17
+    },
+    "Snap-243.tif": {
+      "h_idx": 17
+    },
+    "Snap-244.tif": {
+      "h_idx": 17
+    },
+    "Snap-245.tif": {
+      "h_idx": 17
+    },
+    "Snap-246.tif": {
+      "h_idx": 17
+    },
+    "Snap-247.tif": {
+      "h_idx": 17
+    },
+    "Snap-248.tif": {
+      "h_idx": 17
+    },
+    "Snap-249.tif": {
+      "h_idx": 17
+    },
+    "Snap-250.tif": {
+      "h_idx": 17
+    },
+    "Snap-251.tif": {
+      "h_idx": 17
+    },
+    "Snap-252.tif": {
+      "h_idx": 17
+    },
+    "Snap-253.tif": {
+      "h_idx": 17
+    },
+    "Snap-254.tif": {
+      "h_idx": 17
+    },
+    "Snap-255.tif": {
+      "h_idx": 17
+    },
+    "Snap-256.tif": {
+      "h_idx": 17
+    },
+    "Snap-257.tif": {
+      "h_idx": 17
+    },
+    "Snap-258.tif": {
+      "h_idx": 17
+    },
+    "Snap-259.tif": {
+      "h_idx": 17
+    },
+    "Snap-260.tif": {
+      "h_idx": 17
+    },
+    "Snap-261.tif": {
+      "h_idx": 17
+    },
+    "Snap-262.tif": {
+      "h_idx": 17
+    },
+    "Snap-263.tif": {
+      "h_idx": 17
+    },
+    "Snap-264.tif": {
+      "h_idx": 17
+    },
+    "Snap-265.tif": {
+      "h_idx": 17
+    },
+    "Snap-266.tif": {
+      "h_idx": 17
+    },
+    "Snap-267.tif": {
+      "h_idx": 17
+    },
+    "Snap-268.tif": {
+      "h_idx": 17
+    },
+    "Snap-269.tif": {
+      "h_idx": 17
+    },
+    "Snap-270.tif": {
+      "h_idx": 17
+    },
+    "Snap-271.tif": {
+      "h_idx": 17
+    },
+    "Snap-272.tif": {
+      "h_idx": 17
+    },
+    "Snap-273.tif": {
+      "h_idx": 17
+    },
+    "Snap-274.tif": {
+      "h_idx": 17
+    },
+    "Snap-275.tif": {
+      "h_idx": 17
+    },
+    "Snap-276.tif": {
+      "h_idx": 17
+    },
+    "Snap-277.tif": {
+      "h_idx": 17
+    },
+    "Snap-278.tif": {
+      "h_idx": 17
+    },
+    "Snap-279.tif": {
+      "h_idx": 17
+    },
+    "Snap-280.tif": {
+      "h_idx": 17
+    },
+    "Snap-281.tif": {
+      "h_idx": 17
+    },
+    "Snap-282.tif": {
+      "h_idx": 17
+    },
+    "Snap-283.tif": {
+      "h_idx": 17
+    },
+    "Snap-284.tif": {
+      "h_idx": 17
+    },
+    "Snap-285.tif": {
+      "h_idx": 17
+    },
+    "Snap-286.tif": {
+      "h_idx": 17
+    },
+    "Snap-287.tif": {
+      "h_idx": 17
+    },
+    "Snap-288.tif": {
+      "h_idx": 17
+    },
+    "Snap-289.tif": {
+      "h_idx": 17
+    },
+    "Snap-290.tif": {
+      "h_idx": 17
+    },
+    "Snap-291.tif": {
+      "h_idx": 17
+    },
+    "Snap-292.tif": {
+      "h_idx": 17
+    },
+    "Snap-293.tif": {
+      "h_idx": 17
+    },
+    "Snap-294.tif": {
+      "h_idx": 17
+    },
+    "Snap-295.tif": {
+      "h_idx": 17
+    },
+    "Snap-296.tif": {
+      "h_idx": 17
+    },
+    "Snap-297.tif": {
+      "h_idx": 17
+    },
+    "Snap-298.tif": {
+      "h_idx": 17
+    },
+    "Snap-299.tif": {
+      "h_idx": 17
+    },
+    "Snap-300.tif": {
+      "h_idx": 17
+    },
+    "Snap-301.tif": {
+      "h_idx": 17
+    },
+    "Snap-302.tif": {
+      "h_idx": 17
+    },
+    "Snap-303.tif": {
+      "h_idx": 17
+    },
+    "Snap-304.tif": {
+      "h_idx": 17
+    },
+    "Snap-305.tif": {
+      "h_idx": 17
+    },
+    "Snap-306.tif": {
+      "h_idx": 17
+    },
+    "Snap-307.tif": {
+      "h_idx": 17
+    },
+    "Snap-308.tif": {
+      "h_idx": 17
+    },
+    "Snap-309.tif": {
+      "h_idx": 17
+    },
+    "Snap-310.tif": {
+      "h_idx": 17
+    },
+    "Snap-311.tif": {
+      "h_idx": 17
+    },
+    "Snap-312.tif": {
+      "h_idx": 17
+    },
+    "Snap-313.tif": {
+      "h_idx": 17
+    },
+    "Snap-314.tif": {
+      "h_idx": 17
+    },
+    "Snap-315.tif": {
+      "h_idx": 17
+    },
+    "Snap-316.tif": {
+      "h_idx": 17
+    },
+    "Snap-317.tif": {
+      "h_idx": 17
+    },
+    "Snap-318.tif": {
+      "h_idx": 17
+    },
+    "Snap-319.tif": {
+      "h_idx": 17
+    },
+    "Snap-320.tif": {
+      "h_idx": 17
+    },
+    "Snap-321.tif": {
+      "h_idx": 17
+    },
+    "Snap-322.tif": {
+      "h_idx": 17
+    },
+    "Snap-323.tif": {
+      "h_idx": 17
+    },
+    "Snap-324.tif": {
+      "h_idx": 17
+    },
+    "Snap-325.tif": {
+      "h_idx": 17
+    },
+    "Snap-326.tif": {
+      "h_idx": 17
+    },
+    "Snap-327.tif": {
+      "h_idx": 17
+    },
+    "Snap-328.tif": {
+      "h_idx": 17
+    },
+    "Snap-329.tif": {
+      "h_idx": 17
+    },
+    "Snap-330.tif": {
+      "h_idx": 17
+    },
+    "Snap-331.tif": {
+      "h_idx": 17
+    },
+    "Snap-332.tif": {
+      "h_idx": 17
+    },
+    "Snap-333.tif": {
+      "h_idx": 17
+    },
+    "Snap-334.tif": {
+      "h_idx": 17
+    },
+    "Snap-335.tif": {
+      "h_idx": 17
+    },
+    "Snap-336.tif": {
+      "h_idx": 17
+    },
+    "Snap-337.tif": {
+      "h_idx": 18
+    },
+    "Snap-338.tif": {
+      "h_idx": 18
+    },
+    "Snap-339.tif": {
+      "h_idx": 18
+    },
+    "Snap-340.tif": {
+      "h_idx": 18
+    },
+    "Snap-341.tif": {
+      "h_idx": 18
+    },
+    "Snap-342.tif": {
+      "h_idx": 18
+    },
+    "Snap-343.tif": {
+      "h_idx": 18
+    },
+    "Snap-344.tif": {
+      "h_idx": 18
+    },
+    "Snap-345.tif": {
+      "h_idx": 18
+    },
+    "Snap-346.tif": {
+      "h_idx": 18
+    },
+    "Snap-347.tif": {
+      "h_idx": 18
+    },
+    "Snap-348.tif": {
+      "h_idx": 18
+    },
+    "Snap-349.tif": {
+      "h_idx": 18
+    },
+    "Snap-350.tif": {
+      "h_idx": 18
+    },
+    "Snap-351.tif": {
+      "h_idx": 18
+    },
+    "Snap-352.tif": {
+      "h_idx": 18
+    },
+    "Snap-353.tif": {
+      "h_idx": 18
+    },
+    "Snap-354.tif": {
+      "h_idx": 18
+    },
+    "Snap-355.tif": {
+      "h_idx": 18
+    },
+    "Snap-356.tif": {
+      "h_idx": 18
+    },
+    "Snap-357.tif": {
+      "h_idx": 18
+    },
+    "Snap-358.tif": {
+      "h_idx": 18
+    },
+    "Snap-359.tif": {
+      "h_idx": 18
+    },
+    "Snap-360.tif": {
+      "h_idx": 18
+    },
+    "Snap-361.tif": {
+      "h_idx": 18
+    },
+    "Snap-362.tif": {
+      "h_idx": 18
+    },
+    "Snap-363.tif": {
+      "h_idx": 18
+    },
+    "Snap-364.tif": {
+      "h_idx": 18
+    },
+    "Snap-365.tif": {
+      "h_idx": 18
+    },
+    "Snap-366.tif": {
+      "h_idx": 18
+    },
+    "Snap-367.tif": {
+      "h_idx": 18
+    },
+    "Snap-368.tif": {
+      "h_idx": 18
+    },
+    "Snap-369.tif": {
+      "h_idx": 18
+    },
+    "Snap-370.tif": {
+      "h_idx": 18
+    },
+    "Snap-371.tif": {
+      "h_idx": 18
+    },
+    "Snap-372.tif": {
+      "h_idx": 18
+    },
+    "Snap-373.tif": {
+      "h_idx": 18
+    },
+    "Snap-374.tif": {
+      "h_idx": 18
+    },
+    "Snap-375.tif": {
+      "h_idx": 18
+    },
+    "Snap-376.tif": {
+      "h_idx": 18
+    },
+    "Snap-377.tif": {
+      "h_idx": 18
+    },
+    "Snap-378.tif": {
+      "h_idx": 18
+    },
+    "Snap-379.tif": {
+      "h_idx": 18
+    },
+    "Snap-380.tif": {
+      "h_idx": 18
+    },
+    "Snap-381.tif": {
+      "h_idx": 18
+    },
+    "Snap-382.tif": {
+      "h_idx": 18
+    },
+    "Snap-383.tif": {
+      "h_idx": 18
+    },
+    "Snap-384.tif": {
+      "h_idx": 18
+    },
+    "Snap-385.tif": {
+      "h_idx": 18
+    },
+    "Snap-386.tif": {
+      "h_idx": 18
+    },
+    "Snap-387.tif": {
+      "h_idx": 18
+    },
+    "Snap-388.tif": {
+      "h_idx": 18
+    },
+    "Snap-389.tif": {
+      "h_idx": 18
+    },
+    "Snap-390.tif": {
+      "h_idx": 18
+    },
+    "Snap-391.tif": {
+      "h_idx": 18
+    },
+    "Snap-392.tif": {
+      "h_idx": 18
+    },
+    "Snap-393.tif": {
+      "h_idx": 18
+    },
+    "Snap-394.tif": {
+      "h_idx": 18
+    },
+    "Snap-395.tif": {
+      "h_idx": 18
+    },
+    "Snap-396.tif": {
+      "h_idx": 18
+    },
+    "Snap-397.tif": {
+      "h_idx": 18
+    },
+    "Snap-398.tif": {
+      "h_idx": 18
+    },
+    "Snap-399.tif": {
+      "h_idx": 18
+    },
+    "Snap-400.tif": {
+      "h_idx": 18
+    },
+    "Snap-401.tif": {
+      "h_idx": 19
+    },
+    "Snap-402.tif": {
+      "h_idx": 19
+    },
+    "Snap-403.tif": {
+      "h_idx": 19
+    },
+    "Snap-404.tif": {
+      "h_idx": 19
+    },
+    "Snap-405.tif": {
+      "h_idx": 19
+    },
+    "Snap-406.tif": {
+      "h_idx": 19
+    },
+    "Snap-407.tif": {
+      "h_idx": 19
+    },
+    "Snap-408.tif": {
+      "h_idx": 19
+    },
+    "Snap-409.tif": {
+      "h_idx": 19
+    },
+    "Snap-410.tif": {
+      "h_idx": 19
+    },
+    "Snap-411.tif": {
+      "h_idx": 19
+    },
+    "Snap-412.tif": {
+      "h_idx": 19
+    },
+    "Snap-413.tif": {
+      "h_idx": 19
+    },
+    "Snap-414.tif": {
+      "h_idx": 19
+    },
+    "Snap-415.tif": {
+      "h_idx": 19
+    },
+    "Snap-416.tif": {
+      "h_idx": 19
+    },
+    "Snap-417.tif": {
+      "h_idx": 19
+    },
+    "Snap-418.tif": {
+      "h_idx": 19
+    },
+    "Snap-419.tif": {
+      "h_idx": 19
+    },
+    "Snap-420.tif": {
+      "h_idx": 19
+    },
+    "Snap-421.tif": {
+      "h_idx": 19
+    },
+    "Snap-422.tif": {
+      "h_idx": 19
+    },
+    "Snap-423.tif": {
+      "h_idx": 19
+    },
+    "Snap-424.tif": {
+      "h_idx": 19
+    },
+    "Snap-425.tif": {
+      "h_idx": 19
+    },
+    "Snap-426.tif": {
+      "h_idx": 19
+    },
+    "Snap-427.tif": {
+      "h_idx": 19
+    },
+    "Snap-428.tif": {
+      "h_idx": 19
+    },
+    "Snap-429.tif": {
+      "h_idx": 19
+    },
+    "Snap-430.tif": {
+      "h_idx": 19
+    },
+    "Snap-431.tif": {
+      "h_idx": 19
+    },
+    "Snap-432.tif": {
+      "h_idx": 19
+    },
+    "Snap-433.tif": {
+      "h_idx": 19
+    },
+    "Snap-434.tif": {
+      "h_idx": 19
+    },
+    "Snap-435.tif": {
+      "h_idx": 19
+    },
+    "Snap-436.tif": {
+      "h_idx": 19
+    },
+    "Snap-437.tif": {
+      "h_idx": 19
+    },
+    "Snap-438.tif": {
+      "h_idx": 20
+    },
+    "Snap-439.tif": {
+      "h_idx": 20
+    },
+    "Snap-440.tif": {
+      "h_idx": 20
+    },
+    "Snap-441.tif": {
+      "h_idx": 20
+    },
+    "Snap-442.tif": {
+      "h_idx": 20
+    },
+    "Snap-443.tif": {
+      "h_idx": 20
+    },
+    "Snap-444.tif": {
+      "h_idx": 20
+    },
+    "Snap-445.tif": {
+      "h_idx": 20
+    },
+    "Snap-446.tif": {
+      "h_idx": 20
+    },
+    "Snap-447.tif": {
+      "h_idx": 20
+    },
+    "Snap-448.tif": {
+      "h_idx": 20
+    },
+    "Snap-449.tif": {
+      "h_idx": 20
+    },
+    "Snap-450.tif": {
+      "h_idx": 20
+    },
+    "Snap-451.tif": {
+      "h_idx": 20
+    },
+    "Snap-452.tif": {
+      "h_idx": 20
+    },
+    "Snap-453.tif": {
+      "h_idx": 20
+    },
+    "Snap-454.tif": {
+      "h_idx": 20
+    },
+    "Snap-455.tif": {
+      "h_idx": 20
+    },
+    "Snap-456.tif": {
+      "h_idx": 20
+    },
+    "Snap-457.tif": {
+      "h_idx": 20
+    },
+    "Snap-458.tif": {
+      "h_idx": 20
+    },
+    "Snap-459.tif": {
+      "h_idx": 20
+    },
+    "Snap-460.tif": {
+      "h_idx": 20
+    },
+    "Snap-461.tif": {
+      "h_idx": 20
+    },
+    "Snap-462.tif": {
+      "h_idx": 20
+    },
+    "Snap-463.tif": {
+      "h_idx": 20
+    },
+    "Snap-464.tif": {
+      "h_idx": 20
+    },
+    "Snap-465.tif": {
+      "h_idx": 20
+    },
+    "Snap-466.tif": {
+      "h_idx": 20
+    },
+    "Snap-467.tif": {
+      "h_idx": 20
+    },
+    "Snap-468.tif": {
+      "h_idx": 20
+    },
+    "Snap-469.tif": {
+      "h_idx": 20
+    },
+    "Snap-470.tif": {
+      "h_idx": 20
+    },
+    "Snap-471.tif": {
+      "h_idx": 20
+    },
+    "Snap-472.tif": {
+      "h_idx": 20
+    },
+    "Snap-473.tif": {
+      "h_idx": 20
+    },
+    "Snap-474.tif": {
+      "h_idx": 20
+    },
+    "Snap-475.tif": {
+      "h_idx": 20
+    },
+    "Snap-476.tif": {
+      "h_idx": 20
+    },
+    "Snap-477.tif": {
+      "h_idx": 21
+    },
+    "Snap-478.tif": {
+      "h_idx": 21
+    },
+    "Snap-479.tif": {
+      "h_idx": 21
+    },
+    "Snap-480.tif": {
+      "h_idx": 21
+    },
+    "Snap-481.tif": {
+      "h_idx": 21
+    },
+    "Snap-482.tif": {
+      "h_idx": 21
+    },
+    "Snap-483.tif": {
+      "h_idx": 21
+    },
+    "Snap-484.tif": {
+      "h_idx": 21
+    },
+    "Snap-485.tif": {
+      "h_idx": 21
+    },
+    "Snap-486.tif": {
+      "h_idx": 21
+    },
+    "Snap-487.tif": {
+      "h_idx": 21
+    },
+    "Snap-488.tif": {
+      "h_idx": 21
+    },
+    "Snap-489.tif": {
+      "h_idx": 21
+    },
+    "Snap-490.tif": {
+      "h_idx": 21
+    },
+    "Snap-491.tif": {
+      "h_idx": 21
+    },
+    "Snap-492.tif": {
+      "h_idx": 21
+    },
+    "Snap-493.tif": {
+      "h_idx": 21
+    },
+    "Snap-494.tif": {
+      "h_idx": 21
+    },
+    "Snap-495.tif": {
+      "h_idx": 21
+    },
+    "Snap-496.tif": {
+      "h_idx": 21
+    },
+    "Snap-497.tif": {
+      "h_idx": 21
+    },
+    "Snap-498.tif": {
+      "h_idx": 21
+    },
+    "Snap-499.tif": {
+      "h_idx": 21
+    },
+    "Snap-500.tif": {
+      "h_idx": 21
+    },
+    "Snap-501.tif": {
+      "h_idx": 21
+    },
+    "Snap-502.tif": {
+      "h_idx": 21
+    },
+    "Snap-503.tif": {
+      "h_idx": 21
+    },
+    "Snap-504.tif": {
+      "h_idx": 22
+    },
+    "Snap-505.tif": {
+      "h_idx": 22
+    },
+    "Snap-506.tif": {
+      "h_idx": 22
+    },
+    "Snap-507.tif": {
+      "h_idx": 22
+    },
+    "Snap-508.tif": {
+      "h_idx": 22
+    },
+    "Snap-509.tif": {
+      "h_idx": 22
+    },
+    "Snap-510.tif": {
+      "h_idx": 22
+    },
+    "Snap-511.tif": {
+      "h_idx": 22
+    },
+    "Snap-512.tif": {
+      "h_idx": 22
+    },
+    "Snap-513.tif": {
+      "h_idx": 22
+    },
+    "Snap-514.tif": {
+      "h_idx": 22
+    },
+    "Snap-515.tif": {
+      "h_idx": 22
+    },
+    "Snap-516.tif": {
+      "h_idx": 22
+    },
+    "Snap-517.tif": {
+      "h_idx": 22
+    },
+    "Snap-518.tif": {
+      "h_idx": 22
+    },
+    "Snap-519.tif": {
+      "h_idx": 22
+    },
+    "Snap-520.tif": {
+      "h_idx": 22
+    },
+    "Snap-521.tif": {
+      "h_idx": 22
+    },
+    "Snap-522.tif": {
+      "h_idx": 22
+    },
+    "Snap-523.tif": {
+      "h_idx": 22
+    },
+    "Snap-524.tif": {
+      "h_idx": 22
+    },
+    "Snap-525.tif": {
+      "h_idx": 22
+    },
+    "Snap-526.tif": {
+      "h_idx": 22
+    },
+    "Snap-527.tif": {
+      "h_idx": 22
+    },
+    "Snap-528.tif": {
+      "h_idx": 22
+    },
+    "Snap-529.tif": {
+      "h_idx": 22
+    },
+    "Snap-530.tif": {
+      "h_idx": 22
+    },
+    "Snap-531.tif": {
+      "h_idx": 22
+    },
+    "Snap-532.tif": {
+      "h_idx": 22
+    },
+    "Snap-533.tif": {
+      "h_idx": 22
+    },
+    "Snap-534.tif": {
+      "h_idx": 22
+    },
+    "Snap-535.tif": {
+      "h_idx": 22
+    },
+    "Snap-536.tif": {
+      "h_idx": 22
+    },
+    "Snap-537.tif": {
+      "h_idx": 22
+    },
+    "Snap-538.tif": {
+      "h_idx": 22
+    },
+    "Snap-539.tif": {
+      "h_idx": 23
+    },
+    "Snap-540.tif": {
+      "h_idx": 23
+    },
+    "Snap-541.tif": {
+      "h_idx": 23
+    },
+    "Snap-542.tif": {
+      "h_idx": 23
+    },
+    "Snap-543.tif": {
+      "h_idx": 23
+    },
+    "Snap-544.tif": {
+      "h_idx": 23
+    },
+    "Snap-545.tif": {
+      "h_idx": 23
+    },
+    "Snap-546.tif": {
+      "h_idx": 23
+    },
+    "Snap-547.tif": {
+      "h_idx": 23
+    },
+    "Snap-548.tif": {
+      "h_idx": 23
+    },
+    "Snap-549.tif": {
+      "h_idx": 23
+    },
+    "Snap-550.tif": {
+      "h_idx": 23
+    },
+    "Snap-551.tif": {
+      "h_idx": 23
+    },
+    "Snap-552.tif": {
+      "h_idx": 23
+    },
+    "Snap-553.tif": {
+      "h_idx": 23
+    },
+    "Snap-554.tif": {
+      "h_idx": 23
+    },
+    "Snap-555.tif": {
+      "h_idx": 23
+    },
+    "Snap-556.tif": {
+      "h_idx": 23
+    },
+    "Snap-557.tif": {
+      "h_idx": 23
+    },
+    "Snap-558.tif": {
+      "h_idx": 23
+    },
+    "Snap-559.tif": {
+      "h_idx": 23
+    },
+    "Snap-560.tif": {
+      "h_idx": 23
+    },
+    "Snap-561.tif": {
+      "h_idx": 23
+    },
+    "Snap-562.tif": {
+      "h_idx": 23
+    },
+    "Snap-563.tif": {
+      "h_idx": 23
+    },
+    "Snap-564.tif": {
+      "h_idx": 23
+    },
+    "Snap-565.tif": {
+      "h_idx": 23
+    },
+    "Snap-566.tif": {
+      "h_idx": 23
+    },
+    "Snap-567.tif": {
+      "h_idx": 23
+    },
+    "Snap-568.tif": {
+      "h_idx": 23
+    },
+    "Snap-569.tif": {
+      "h_idx": 23
+    },
+    "Snap-570.tif": {
+      "h_idx": 23
+    },
+    "Snap-571.tif": {
+      "h_idx": 23
+    },
+    "Snap-572.tif": {
+      "h_idx": 23
+    },
+    "Snap-573.tif": {
+      "h_idx": 23
+    },
+    "Snap-574.tif": {
+      "h_idx": 23
+    },
+    "Snap-575.tif": {
+      "h_idx": 23
+    },
+    "Snap-576.tif": {
+      "h_idx": 23
+    },
+    "Snap-577.tif": {
+      "h_idx": 23
+    },
+    "Snap-578.tif": {
+      "h_idx": 23
+    },
+    "Snap-579.tif": {
+      "h_idx": 23
+    },
+    "Snap-580.tif": {
+      "h_idx": 23
+    },
+    "Snap-581.tif": {
+      "h_idx": 23
+    },
+    "Snap-582.tif": {
+      "h_idx": 23
+    },
+    "Snap-583.tif": {
+      "h_idx": 23
+    },
+    "Snap-584.tif": {
+      "h_idx": 23
+    },
+    "Snap-585.tif": {
+      "h_idx": 23
+    },
+    "Snap-586.tif": {
+      "h_idx": 23
+    },
+    "Snap-587.tif": {
+      "h_idx": 23
+    },
+    "Snap-588.tif": {
+      "h_idx": 23
+    },
+    "Snap-589.tif": {
+      "h_idx": 23
+    },
+    "Snap-590.tif": {
+      "h_idx": 23
+    },
+    "Snap-591.tif": {
+      "h_idx": 23
+    },
+    "Snap-592.tif": {
+      "h_idx": 23
+    },
+    "Snap-593.tif": {
+      "h_idx": 23
+    },
+    "Snap-594.tif": {
+      "h_idx": 23
+    },
+    "Snap-595.tif": {
+      "h_idx": 23
+    },
+    "Snap-596.tif": {
+      "h_idx": 23
+    },
+    "Snap-597.tif": {
+      "h_idx": 23
+    },
+    "Snap-598.tif": {
+      "h_idx": 23
+    },
+    "Snap-599.tif": {
+      "h_idx": 23
+    },
+    "Snap-600.tif": {
+      "h_idx": 23
+    },
+    "Snap-601.tif": {
+      "h_idx": 23
+    },
+    "Snap-602.tif": {
+      "h_idx": 23
+    },
+    "Snap-603.tif": {
+      "h_idx": 23
+    },
+    "Snap-604.tif": {
+      "h_idx": 23
+    },
+    "Snap-605.tif": {
+      "h_idx": 23
+    },
+    "Snap-606.tif": {
+      "h_idx": 23
+    },
+    "Snap-607.tif": {
+      "h_idx": 23
+    },
+    "Snap-608.tif": {
+      "h_idx": 23
+    },
+    "Snap-609.tif": {
+      "h_idx": 23
+    },
+    "Snap-610.tif": {
+      "h_idx": 23
+    },
+    "Snap-611.tif": {
+      "h_idx": 24
+    },
+    "Snap-612.tif": {
+      "h_idx": 24
+    },
+    "Snap-613.tif": {
+      "h_idx": 24
+    },
+    "Snap-614.tif": {
+      "h_idx": 24
+    },
+    "Snap-615.tif": {
+      "h_idx": 24
+    },
+    "Snap-616.tif": {
+      "h_idx": 24
+    },
+    "Snap-617.tif": {
+      "h_idx": 24
+    },
+    "Snap-618.tif": {
+      "h_idx": 24
+    },
+    "Snap-619.tif": {
+      "h_idx": 24
+    },
+    "Snap-620.tif": {
+      "h_idx": 24
+    },
+    "Snap-621.tif": {
+      "h_idx": 24
+    },
+    "Snap-622.tif": {
+      "h_idx": 24
+    },
+    "Snap-623.tif": {
+      "h_idx": 24
+    },
+    "Snap-624.tif": {
+      "h_idx": 24
+    },
+    "Snap-625.tif": {
+      "h_idx": 24
+    },
+    "Snap-626.tif": {
+      "h_idx": 24
+    },
+    "Snap-627.tif": {
+      "h_idx": 24
+    },
+    "Snap-628.tif": {
+      "h_idx": 24
+    },
+    "Snap-629.tif": {
+      "h_idx": 24
+    },
+    "Snap-630.tif": {
+      "h_idx": 24
+    },
+    "Snap-631.tif": {
+      "h_idx": 24
+    },
+    "Snap-632.tif": {
+      "h_idx": 24
+    },
+    "Snap-633.tif": {
+      "h_idx": 24
+    },
+    "Snap-634.tif": {
+      "h_idx": 24
+    },
+    "Snap-635.tif": {
+      "h_idx": 24
+    },
+    "Snap-636.tif": {
+      "h_idx": 24
+    },
+    "Snap-637.tif": {
+      "h_idx": 24
+    },
+    "Snap-638.tif": {
+      "h_idx": 24
+    },
+    "Snap-639.tif": {
+      "h_idx": 24
+    },
+    "Snap-640.tif": {
+      "h_idx": 24
+    },
+    "Snap-641.tif": {
+      "h_idx": 24
+    },
+    "Snap-642.tif": {
+      "h_idx": 24
+    },
+    "Snap-643.tif": {
+      "h_idx": 24
+    },
+    "Snap-644.tif": {
+      "h_idx": 24
+    },
+    "Snap-645.tif": {
+      "h_idx": 24
+    },
+    "Snap-646.tif": {
+      "h_idx": 24
+    },
+    "Snap-647.tif": {
+      "h_idx": 24
+    },
+    "Snap-648.tif": {
+      "h_idx": 24
+    },
+    "Snap-649.tif": {
+      "h_idx": 24
+    },
+    "Snap-650.tif": {
+      "h_idx": 24
+    },
+    "Snap-651.tif": {
+      "h_idx": 24
+    },
+    "Snap-652.tif": {
+      "h_idx": 24
+    },
+    "Snap-653.tif": {
+      "h_idx": 24
+    },
+    "Snap-654.tif": {
+      "h_idx": 24
+    },
+    "Snap-655.tif": {
+      "h_idx": 24
+    }
+  }
+}

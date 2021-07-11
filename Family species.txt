@@ -1,0 +1,28 @@
+Genus of plants:
+
+Corylus (CO):
+Hassel. Pollensesong fra midten av mars til midten av april.
+Arter i norge:
+Corylus avellana.
+Family: Betulaceae, genus Corylus, species avellana.
+https://pollenatlas.net/betulaceae/corylus/corylus-avellana
+
+Pollen characteristic:
+Group: monad
+Symmetry: radial
+Polarity: Isopolar
+Exine sculturing: Psilate
+Aperture: triporate
+Polar view: subtriangular
+Equatorial view: oblate, oval
+
+
+Alnus (AL):
+Plant family: Betulaceae
+Or. Pollensesong fra begynnelsen av mars til slutten av april.
+Arter i Norge:
+Alnus incana, gråor. Kysten, opp til fjellskogene, ikke mye nord for Trondheim.
+Alnus glutinosa, svartor. Mest på østlandet og sørlige deler av vestlandet.
+
+Poaceae (PO): Gressfamilien
+Ca. 160 forskjellige gressarter.

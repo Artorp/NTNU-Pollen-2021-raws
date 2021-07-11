@@ -1,0 +1,19 @@
+/SLIDE_ID/HORIZ_ID/*.czi
+
+SLIDE_ID is the identifier for the digitalized slide, identified by date and location.
+
+HORIZ_ID is a folder with images for each horizontal swipe during digitalization. It is identified by the vertical position of the microscope in mm. During digitalization, a vertical position is set and the horizontal position is altered. In a pollen trap, the slide slides vertically 1mm each hour, the vertical position is thus an indication of time.
+
+The images are saved lossless in czi format, which can be opened with the ZEN 3.1 (Blue edition) software.
+
+Each directory with images also contain a group.txt which contains grouping information. It consists of the number of images in a group, one number per line, traversing the folder in alphabetical order.
+
+16+12+6+19+32+27+13+38+7+6+4+3+8+13+46+35+36+29+25+32+34+24=465 total samples
+
+
+16+12+6+19=53 of 2019Oslo_21-03
+32+27+13+38+7+6+4+3+8+13=151 of 2019Oslo_22-03-kl13
+46+35+36+29+25+32+34+24=261 of 2020Kjevik_25-06
+
+Or and Hassel: 204 samples
+Grass: 261 samples

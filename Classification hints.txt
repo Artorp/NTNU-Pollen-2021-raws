@@ -1,0 +1,15 @@
+hassel: 3 points
+or: 5 points
+
+713: or
+715: hassel høyre
+723: or
+729: begge or
+728: or venstre, hassel høyre
+735: hassel
+738: hassel
+739: hassel
+
+
+hassel: tynn vegg
+or: tykkere vegg
